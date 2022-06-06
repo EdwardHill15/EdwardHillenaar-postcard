@@ -1,0 +1,51 @@
+---
+title: "Edward Hillenaar"
+image: "Ed.jpg"
+links:
+  - label: Website
+    url: "https://edwardhill15-academic.netlify.app"
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Youtube
+    url: "https://www.youtube.com/channel/UCYLPVR3P4INUIrA61yF78-Q"
+  - label: Email
+    url: "mailto:email@email.com"
+  
+output:
+  postcards::trestles
+---
+ 
+```{css, echo = FALSE} 
+  body: {
+  background-color: blue;
+  
+}
+```
+
+
+## Bio
+
+My name is Edward F. Hillenaar and I am the founder and CEO of Total Health Foundation. Through a journey in different directions, I now walk a path in which my knowledge and life experiences are used for therapy and counseling to improve the ‘quality of life'.
+
+My regular ‘scientific’ education consists respectively of the Academy of Physical Education and Physiotherapy in The Hague (HALO); Sports and Exercise Science at the University of Utrecht (“Sports, Exercise and Health”); and Clinical-Health Psychology. Combined with my interest in Eastern Buddhist psychology and philosophy, all my knowledge and experience can be used for my mission within the Total Health Foundation.
+
+My research interests include psychology, philosophy and data science of the origin and nature of human consciousness.
+
+## Skills
+
+- I have 4 years of experience with R statistics package, especially experienced 
+  in Regression Analysis, Factor Analysis and Bayesian statistics
+  
+- I am a trainer/coach/therapist in my own company; Total Health Foundation
+  
+
+## Experience
+
+- Training/Coaching/Therapy
+
+- Scientific Research
+
+- Psychology/Philosophy
+        
